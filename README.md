@@ -1,117 +1,132 @@
 <div align="center">
 
-# 👋 Samirbek Jabborov
+# Samirbek Jabborov
 
-### Full-Stack Developer · Problem Solver · Builder of Meaningful Digital Products
+### Full-Stack Developer
 
-<p>
-  <a href="https://github.com/samirbekjs"><img src="https://komarev.com/ghpvc/?username=samirbekjs&label=Profile%20views&color=0E75B6&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/samirbekjs?tab=followers"><img src="https://img.shields.io/github/followers/samirbekjs?label=Followers&style=for-the-badge&color=0E75B6" alt="Followers" /></a>
-  <a href="mailto:smrbkjs@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collaboration-0A66C2?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" /></a>
-</p>
+**Foydali g‘oyalarni sodda, ishonchli va ishlaydigan raqamli mahsulotlarga aylantiraman.**
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Backend+%26+API+Builder;Python+%26+JavaScript+Engineer;Flutter+Developer;Building+real+impact" alt="Typing animation" />
-</p>
+<br />
 
-<p>
-  <img src="https://img.shields.io/badge/📍%20Bukhara%2C%20Uzbekistan-1F6FEB?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Experience-Middle%20%7C%204%2B%20years-28A745?style=flat-square" alt="Experience" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-FF6B6B?style=flat-square" alt="Status" />
-</p>
+<a href="mailto:smrbkjs@gmail.com">Bog‘lanish</a> ·
+<a href="https://github.com/samirbekjs?tab=repositories">Loyihalar</a> ·
+<a href="https://t.me/samirbekjs">Telegram</a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Bukhara%2C%20Uzbekistan-F5F5F7?style=flat-square&labelColor=F5F5F7&color=6E6E73" alt="Bukhara, Uzbekistan" />
+<img src="https://img.shields.io/badge/4%2B%20years-F5F5F7?style=flat-square&label=Experience&labelColor=F5F5F7&color=6E6E73" alt="4+ years experience" />
+<img src="https://img.shields.io/badge/Open%20to%20collaboration-F5F5F7?style=flat-square&labelColor=F5F5F7&color=6E6E73" alt="Open to collaboration" />
 
 </div>
 
 ---
 
-## 👨‍💻 Men haqimda
+## Men haqimda
 
-Men **4+ yillik tajribaga ega Full-Stack Developer** bo‘lib, ishonchli, toza va foydalanuvchiga qulay raqamli mahsulotlar yaratishga ixtisoslashganman. Dasturlashni faqat kod yozish sifatida emas, balki muammolarni hal qilish, g‘oyalarni real mahsulotlarga aylantirish va insonlar hayotiga ijobiy ta’sir ko‘rsatadigan yechimlar yaratish vositasi sifatida qarayman.
+Men — **4+ yillik tajribaga ega Full-Stack Developer**. Men uchun yaxshi dasturiy ta’minot faqat ishlashi bilan emas, balki tushunarli arxitekturasi, puxta tafsilotlari va foydalanuvchiga beradigan qiymati bilan ham muhim.
 
-Men quyidagilar bilan ishlashdan zavqlanaman:
-
-- 🔧 Backend tizimlar va REST API’lar yaratish
-- 🗄 PostgreSQL bilan ma’lumotlar bazasi va ma’lumotlar ishlash
-- 📱 Web va mobil mahsulotlar loyihalash va ishlab chiqish
-- 🧠 Toza, kengaytiriladigan va yaxshi saqlanadigan kod yozish
-- 🤝 Freelance, hamkorlik va uzoq muddatli mahsulot loyihalariga ochiqman
+Murakkab muammolarni sodda yechimlarga aylantirishni, g‘oyani puxta mahsulotga olib borishni va uzoq muddat xizmat qiladigan tizimlar qurishni yaxshi ko‘raman. Har bir loyihada texnologiya emas, avvalo **inson va uning muammosi** markazda turadi.
 
 > **Maqsadim — insoniyat taqdirini yaxshi tomonga o‘zgartira oladigan loyihalarni qurish.**
 
 ---
 
-## 🛠 Texnologik stack
+## Mening yondashuvim
 
-### Kuchli ko‘nikmalar
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### O‘rta darajadagi ko‘nikmalar
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+| Tamoyil | Men nimaga e’tibor beraman |
+| --- | --- |
+| **Aniqlik** | Keraksiz murakkabliksiz, maqsadga xizmat qiladigan yechimlar |
+| **Sifat** | Toza kod, mantiqiy arxitektura va barqaror natija |
+| **Foydalanuvchi** | Qulay tajriba va real muammoni hal qilish |
+| **Rivojlanish** | Har bir loyiha — yangi bilim va yaxshiroq qarorlar uchun imkoniyat |
 
 ---
 
-## 🚀 Tanlangan loyihalar
+## Texnologiyalar
 
-- [**Algorithm**](https://github.com/samirbekjs/Algorithm) — Python’da algoritmlar va ma’lumotlar tuzilmalari bo‘yicha loyiha.
-- [**jprq**](https://github.com/samirbekjs/jprq) — Go asosidagi public router va networking loyihasi.
-- [**micro-step-2026**](https://github.com/samirbekjs/micro-step-2026) — doimiy o‘rganish, tajriba va rivojlanishga qaratilgan loyiha.
+### Asosiy yo‘nalishlarim
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,flutter,postgres,git,github,linux" alt="Python, HTML, CSS, Flutter, PostgreSQL, Git, GitHub, Linux" />
+</p>
+
+### Ishlayotgan texnologiyalarim
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,go,docker" alt="JavaScript, Go, Docker" />
+</p>
+
+| Daraja | Texnologiyalar |
+| --- | --- |
+| **Kuchli** | Python · HTML/CSS · Flutter · PostgreSQL · REST API · Git/GitHub · Linux |
+| **O‘rta** | JavaScript · Go · Docker |
 
 ---
 
-## 📊 GitHub statistikasi
+## Tanlangan loyihalar
+
+### [Algorithm](https://github.com/samirbekjs/Algorithm)
+
+**Algoritmlar va ma’lumotlar tuzilmalari** ustida ishlash uchun Python loyihasi. Mantiqiy fikrlash, samarali yechim topish va dasturlash asoslarini chuqurlashtirishga yo‘naltirilgan.
+
+`Python` `Algorithms` `Data Structures`
+
+### [jprq](https://github.com/samirbekjs/jprq)
+
+Go tilidagi **public router va networking** yo‘nalishidagi loyiha. Backend muhandisligi, tizimlarning ishlash mantig‘i va amaliy servislar bilan ishlashga qiziqishimni aks ettiradi.
+
+`Go` `Networking` `Backend`
+
+### [micro-step-2026](https://github.com/samirbekjs/micro-step-2026)
+
+Katta maqsadlarni kichik, izchil va amaliy qadamlarga bo‘lishga asoslangan rivojlanish loyihasi.
+
+`Learning` `Experimentation` `Growth`
+
+---
+
+## Hozirgi fokusim
+
+- Ishonchli backend va REST API’lar yaratish
+- PostgreSQL bilan puxta ma’lumotlar yechimlarini qurish
+- Flutter orqali qulay mobil tajribalar ishlab chiqish
+- JavaScript, Go va Docker bo‘yicha amaliy ko‘nikmalarni chuqurlashtirish
+- Insonlar uchun haqiqiy qiymat yaratadigan mahsulotlar ustida ishlash
+
+---
+
+## GitHub faoliyatim
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=samirbekjs&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirbekjs&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samirbekjs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=1D1D1F&text_color=6E6E73&icon_color=0071E3&bg_color=FFFFFF" alt="GitHub statistikasi" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirbekjs&layout=compact&hide_border=true&langs_count=6&title_color=1D1D1F&text_color=6E6E73&icon_color=0071E3&bg_color=FFFFFF" alt="Eng ko‘p ishlatiladigan tillar" />
 </div>
 
+---
+
+## Men bilan ishlash uchun
+
+Men **freelance**, texnik hamkorlik va uzoq muddatli mahsulot loyihalariga ochiqman. Agar g‘oyangiz bo‘lsa yoki mavjud mahsulotni yaxshilamoqchi bo‘lsangiz, birgalikda uni aniq reja va sifatli yechimga aylantirishimiz mumkin.
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samirbekjs&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+### G‘oyangizni birgalikda mahsulotga aylantiraylik.
+
+<a href="mailto:smrbkjs@gmail.com"><strong>smrbkjs@gmail.com</strong></a>
+
+<br /><br />
+
+<a href="https://t.me/samirbekjs">Telegram</a> ·
+<a href="https://instagram.com/samirbek.js">Instagram</a> ·
+<a href="https://github.com/samirbekjs">GitHub</a>
+
 </div>
 
 ---
 
-## 🌍 Tillar
-
-- O‘zbek tili — ona tili
-- Ingliz tili — o‘rtacha darajada
-
----
-
-## 📫 Aloqa
-
-<p>
-  <a href="mailto:smrbkjs@gmail.com"><img src="https://img.shields.io/badge/Email-smrbkjs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/samirbekjs"><img src="https://img.shields.io/badge/Telegram-%40samirbekjs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://instagram.com/samirbek.js"><img src="https://img.shields.io/badge/Instagram-%40samirbek.js-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
-- **Email:** [smrbkjs@gmail.com](mailto:smrbkjs@gmail.com)
-- **Telegram:** [@samirbekjs](https://t.me/samirbekjs)
-- **Instagram:** [@samirbek.js](https://instagram.com/samirbek.js)
-
----
-
 <div align="center">
 
-### Keling, birgalikda mazmunli loyihalar yaratamiz 🚀
-
-Open for freelance, collaboration and product development opportunities.
+<sub>Minimalizm — kamroq ko‘rsatish emas, muhimini aniq ko‘rsatishdir.</sub>
 
 </div>
