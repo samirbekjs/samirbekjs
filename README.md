@@ -2,55 +2,56 @@
 
 # 👋 Samirbek Jabborov
 
-### Full-Stack Developer | Problem Solver | Builder of Human-Centered Digital Products
+### Full-Stack Developer · Problem Solver · Builder of Meaningful Digital Products
 
 <p>
-  <a href="https://github.com/samirbekjs">
-    <img src="https://komarev.com/ghpvc/?username=samirbekjs&label=Profile%20views&color=0E75B6&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/samirbekjs?tab=followers">
-    <img src="https://img.shields.io/github/followers/samirbekjs?label=Followers&style=for-the-badge&color=0E75B6" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/samirbekjs">
-    <img src="https://img.shields.io/badge/Open%20for-Freelance%20%26%20collaboration-0A66C2?style=for-the-badge&logo=handshake&logoColor=white" alt="Open for freelance" />
-  </a>
+  <a href="https://github.com/samirbekjs"><img src="https://komarev.com/ghpvc/?username=samirbekjs&label=Profile%20views&color=0E75B6&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/samirbekjs?tab=followers"><img src="https://img.shields.io/github/followers/samirbekjs?label=Followers&style=for-the-badge&color=0E75B6" alt="Followers" /></a>
+  <a href="mailto:smrbkjs@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collaboration-0A66C2?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" /></a>
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+API+Builder;Python+%26+JavaScript+Engineer;Open+for+freelance+and+collaboration;Building+meaningful+digital+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Python+%26+JavaScript+Engineer;Backend+%26+API+Builder;Flutter+Developer;Building+technology+with+meaning" alt="Typing animation" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Location-Bukhara%2C%20Uzbekistan-1F6FEB?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Experience-Middle%20%284%2B%20years%29-28A745?style=flat-square" alt="Experience" />
-  <img src="https://img.shields.io/badge/Focus-Meaningful%20products%20%26%20real%20impact-FF6B6B?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/📍%20Bukhara-Uzbekistan-1F6FEB?style=flat-square" alt="Bukhara, Uzbekistan" />
+  <img src="https://img.shields.io/badge/Experience-Middle%20%7C%204%2B%20years-28A745?style=flat-square" alt="4+ years experience" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-FF6B6B?style=flat-square" alt="Open to opportunities" />
 </p>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I’m a Full-Stack Developer with a strong interest in building reliable, clean, and user-focused digital products. I enjoy solving real-world problems through technology, turning ideas into working systems, and creating solutions that bring measurable value to people.
+**🌐 Read this profile in:** [🇺🇿 O‘zbekcha](#-o‘zbekcha) · [🇷🇺 Русский](#-русский) · [🇬🇧 English](#-english)
 
-I am especially interested in:
-
-- Building backend systems and APIs
-- Designing practical, scalable solutions
-- Writing clean, maintainable code
-- Turning ideas into products that improve everyday life
-- Collaborating with teams and clients to deliver meaningful outcomes
-
-My goal is simple: create products that can positively change people’s lives and improve the world around us.
-
-> “I aim to build projects that help humanity move toward a better future.”
+</div>
 
 ---
 
-## Core Technical Stack
+## 🇺🇿 O‘zbekcha
 
-### Excellent / Strong Skills
+### Men haqimda
+
+Men **4+ yillik tajribaga ega Full-Stack Developer** bo‘lib, ishonchli, toza va foydalanuvchiga qulay raqamli mahsulotlar yaratishga ixtisoslashganman. Texnologiyalar yordamida real muammolarni hal qilish, g‘oyalarni ishlaydigan mahsulotga aylantirish va insonlar hayotiga ijobiy ta’sir qiladigan loyihalar qurish menga yoqadi.
+
+Men hamkorlik, freelance va uzoq muddatli mahsulot ishlab chiqish imkoniyatlariga ochiqman.
+
+### Asosiy yo‘nalishlarim
+
+- Backend tizimlar va REST API’lar yaratish
+- PostgreSQL asosida ma’lumotlar bilan ishlash
+- Toza, qo‘llab-quvvatlanadigan va kengaytiriladigan kod yozish
+- Web va mobil mahsulotlar ishlab chiqish
+- Git, GitHub va Linux asosidagi professional workflow
+- G‘oyani foydali va real mahsulotga aylantirish
+
+### Texnologik stack
+
+**Mukammal / kuchli:**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -64,7 +65,7 @@ My goal is simple: create products that can positively change people’s lives a
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### Intermediate Skills
+**O‘rta daraja:**
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -72,79 +73,98 @@ My goal is simple: create products that can positively change people’s lives a
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
+### Tanlangan loyihalar
 
-## What I Do
+- [**Algorithm**](https://github.com/samirbekjs/Algorithm) — Python’da algoritmlar va ma’lumotlar tuzilmalari to‘plami.
+- [**jprq**](https://github.com/samirbekjs/jprq) — Go asosidagi public router va networking yo‘nalishidagi loyiha.
+- [**micro-step-2026**](https://github.com/samirbekjs/micro-step-2026) — izchil o‘rganish, tajriba va muntazam rivojlanish loyihasi.
 
-- Build web and product solutions using modern tools and scalable approaches
-- Create backend logic and REST APIs that support real applications
-- Design and implement data-driven features with PostgreSQL
-- Develop user-facing interfaces with clean HTML/CSS and modern frontend practices
-- Explore mobile development with Flutter
-- Improve workflows with Git, GitHub, Linux-based toolchains, and deployment-friendly architecture
+### Maqsadim
 
----
+> Insoniyat taqdirini yaxshi tomonga o‘zgartira oladigan loyihalarni qurish.
 
-## Featured Projects
-
-### 1) Algorithm
-
-A repository focused on algorithms and data structures, with an emphasis on problem-solving and improving computational thinking.
-
-- Language: Python
-- Focus: Data structures, algorithmic logic, practice-oriented development
-- Repository: https://github.com/samirbekjs/Algorithm
-
-### 2) jprq
-
-A project centered around a public router / networking-oriented utility, focusing on practical Go-based implementation and backend experimentation.
-
-- Language: Go
-- Focus: Backend engineering, practical system thinking, service-oriented patterns
-- Repository: https://github.com/samirbekjs/jprq
-
-### 3) micro-step-2026
-
-An active project focused on learning, experimentation, and consistent progress in development. This repository reflects a habit of building small but meaningful steps toward larger outcomes.
-
-- Language: Mixed / project-based
-- Focus: Continuous learning, iterative product building, technical growth
-- Repository: https://github.com/samirbekjs/micro-step-2026
-
-### 4) GitHub Profile / Portfolio
-
-This profile repository itself represents my professional identity, showcasing my goals, skills, and work ethic in a concise and high-quality way.
-
-- Repository: https://github.com/samirbekjs/samirbekjs
+Men sifat, intizom, doimiy o‘sish va real foyda yaratishga ishonaman.
 
 ---
 
-## Why Work With Me
+## 🇷🇺 Русский
 
-- I focus on building solutions that are functional, clean, and sustainable
-- I enjoy solving problems with practical thinking and real-world logic
-- I am open to freelance work, collaborations, and long-term product development
-- I value quality, discipline, and continuous improvement
-- I aim to create work that has a positive impact on people and society
+### Обо мне
+
+Я **Full-Stack Developer с опытом более 4 лет**, специализирующийся на создании надёжных, чистых и удобных цифровых продуктов. Мне нравится решать реальные задачи с помощью технологий, превращать идеи в работающие продукты и создавать решения, которые приносят пользу людям.
+
+Я открыт к сотрудничеству, freelance-проектам и долгосрочной разработке продуктов.
+
+### Мои основные направления
+
+- Разработка backend-систем и REST API
+- Работа с данными и PostgreSQL
+- Написание чистого, поддерживаемого и масштабируемого кода
+- Создание web- и мобильных продуктов
+- Профессиональный workflow на базе Git, GitHub и Linux
+- Превращение идей в практичные цифровые решения
+
+### Технологический стек
+
+**Сильные навыки:** Python, HTML/CSS, Flutter, PostgreSQL, REST API, Git, GitHub, Linux.
+
+**Средний уровень:** JavaScript, Go, Docker.
+
+### Избранные проекты
+
+- [**Algorithm**](https://github.com/samirbekjs/Algorithm) — коллекция алгоритмов и структур данных на Python.
+- [**jprq**](https://github.com/samirbekjs/jprq) — проект на Go в направлении public router и networking.
+- [**micro-step-2026**](https://github.com/samirbekjs/micro-step-2026) — проект для последовательного обучения, экспериментов и развития.
+
+### Моя цель
+
+> Создавать проекты, способные изменить будущее человечества к лучшему.
+
+Я ценю качество, дисциплину, постоянное развитие и реальную пользу для пользователей.
 
 ---
 
-## Languages
+## 🇬🇧 English
 
-<p>
-  <img src="https://img.shields.io/badge/Uzbek-Native-34A853?style=for-the-badge" alt="Uzbek" />
-  <img src="https://img.shields.io/badge/English-Intermediate-FFB703?style=for-the-badge" alt="English" />
-</p>
+### About Me
 
-- Uzbek: Native / Excellent
-- English: Intermediate
+I am a **Full-Stack Developer with 4+ years of experience**, focused on building reliable, clean, and user-centered digital products. I enjoy solving real-world problems with technology, turning ideas into working products, and creating solutions that make a positive impact on people’s lives.
+
+I am open to freelance work, collaboration, and long-term product development opportunities.
+
+### What I do
+
+- Build backend systems and REST APIs
+- Design data-driven solutions with PostgreSQL
+- Write clean, maintainable, and scalable code
+- Develop web and mobile products
+- Use professional Git, GitHub, and Linux-based workflows
+- Turn ambitious ideas into practical digital products
+
+### Technology stack
+
+**Strong skills:** Python, HTML/CSS, Flutter, PostgreSQL, REST API, Git, GitHub, Linux.
+
+**Intermediate:** JavaScript, Go, Docker.
+
+### Featured projects
+
+- [**Algorithm**](https://github.com/samirbekjs/Algorithm) — a Python repository focused on algorithms and data structures.
+- [**jprq**](https://github.com/samirbekjs/jprq) — a Go-based public router and networking-oriented project.
+- [**micro-step-2026**](https://github.com/samirbekjs/micro-step-2026) — a project built around consistent learning, experimentation, and growth.
+
+### My mission
+
+> To build projects that can change humanity’s future for the better.
+
+I believe in quality, discipline, continuous improvement, and creating measurable value for people.
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=samirbekjs&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=samirbekjs&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirbekjs&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </div>
 
@@ -154,30 +174,32 @@ This profile repository itself represents my professional identity, showcasing m
 
 ---
 
-## Contact
+## 🌍 Languages / Языки / Tillar
+
+- 🇺🇿 O‘zbek tili — ona tili / родной язык / native
+- 🇬🇧 English — intermediate / средний уровень / o‘rta daraja
+- 🇷🇺 Русский — profile is available in Russian / профиль доступен на русском
+
+## 📫 Contact / Контакты / Aloqa
 
 <p>
-  <a href="mailto:smrbkjs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-smrbkjs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/samirbekjs">
-    <img src="https://img.shields.io/badge/Telegram-%40samirbekjs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/samirbek.js">
-    <img src="https://img.shields.io/badge/Instagram-%40samirbek.js-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="mailto:smrbkjs@gmail.com"><img src="https://img.shields.io/badge/Email-smrbkjs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/samirbekjs"><img src="https://img.shields.io/badge/Telegram-%40samirbekjs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://instagram.com/samirbek.js"><img src="https://img.shields.io/badge/Instagram-%40samirbek.js-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-- Email: smrbkjs@gmail.com
-- Telegram: @samirbekjs
-- Instagram: @samirbek.js
+- **Email:** [smrbkjs@gmail.com](mailto:smrbkjs@gmail.com)
+- **Telegram:** [@samirbekjs](https://t.me/samirbekjs)
+- **Instagram:** [@samirbek.js](https://instagram.com/samirbek.js)
 
 ---
 
 <div align="center">
 
 ### Let’s build something meaningful together 🚀
+### Давайте создавать значимые проекты вместе 🚀
+### Keling, birgalikda mazmunli loyihalar yaratamiz 🚀
 
-Open for freelance, collaborations, and product development opportunities.
+**Open for freelance · collaboration · product development**
 
 </div>
